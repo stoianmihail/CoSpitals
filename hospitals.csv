@@ -1,0 +1,376 @@
+﻿_id,Nr.crt.,REGIUNE DE DEZVOLTARE,CLASIFICAREA SPITALULUI,UNITATEA SANITARA CU PATURI,JUDET,DETALII ORGANIZARE
+1,1,B,II,Academia Româna Spitalul Universitar de Urgenta “Elias”,RETEA SANITARA PROPR,""
+2,2,NV,V,Centru de recuperare ACASA,Salaj,""
+3,3,B,V,Centrul de Boli Reumatismale Ion Stoia,Bucuresti,HG 529
+4,4,B,V,Centrul de Evaluare si Tratament a Toxicodependentelor Primaria Municipiului Bucuresti,Bucuresti,HG 529
+5,5,B,IV,Centrul de Sanatate RATB,Bucuresti,HG 144
+6,6,B,IIM,Centrul Medical Clinic de Recuperare Neuropsihomotorie Copii Dr. N. Robanescu,Bucuresti,HG 144
+7,7,V,IIM,Centrul Medical de Evaluare si Recuperare pentru Copii si Tineri Cristian Serban Buzias,Timis,HG 144
+8,8,NV,IM,Institutul Clinic de Urologie si Transplant Renal,Cluj,HG 144
+9,9,B,IM,Institutul Clinic Fundeni,Bucuresti,HG 144
+10,10,NE,IM,Institutul de Boli Cardiovasculare prof. dr. G. I. M. Georgescu,Iasi,HG 144
+11,11,V,IM,Institutul de Boli Cardiovasculare Timisoara,Timis,HG 144
+12,12,B,IM,Institutul de Fonoaudiologie si Chirurgie Functionala ORL Prof. Dr. Dorin Hociota,Bucuresti,HG 144
+13,13,B,IM,Institutul de Pneumoftiziologie Marius Nasta,Bucuresti,HG 144
+14,14,B,I M,Institutul de Urgenta pentru Boli Cardiovasculare prof. dr. C.C. Iliescu,Bucuresti,HG 144
+15,15,NV,IM,Institutul Inimii de Urgenta pentru Boli Cardiovasculare N. Stancioiu,Cluj,HG 144
+16,16,B,IM,Institutul National de Boli Infectioase prof. dr. Matei Bals,Bucuresti,HG 144
+17,17,B,IM,"Institutul National de Diabet, Nutritie si Boli Metabolice N.C. Paulescu",Bucuresti,HG 144
+18,18,B,IM,Institutul National de Endocrinologie CI Parhon,Bucuresti,HG 144
+19,19,B,IM,Institutul National de Geriatrie si Gerontologie Ana Aslan,Bucuresti,HG 144
+20,20,B,IM,Institutul National de Neurologie si Boli Neurovasculare,Bucuresti,HG 144
+21,21,B,IM,"Institutul National de Recuperare, Medicina Fizica si Balneoclimatologie",Bucuresti,HG 144
+22,22,B,IM,Institutul Oncologic prof. dr. Al. Trestioreanu,Bucuresti,HG 144
+23,23,NV,IM,Institutul Oncologic prof. dr. I. Chiricuta,Cluj,HG 144
+24,24,B,IIM,Institutul pentru Ocrotirea Mamei si Copilului prof. Dr. A. Rusescu,Bucuresti,HG 144
+25,25,NV,IM,Institutul Regional de Gastroenterologie-Hepatologie Prof. dr. Octavian Fodor Cluj,Cluj,HG 144
+26,26,NE,"",Institutul Regional de Oncologie Iasi,Iasi,HG 144
+27,27,NV,IV,"Ministerul Administratiei si Internelor Spitalul Clinic de Urgenta Avram Iancu, Oradea","",""
+28,28,NE,"",Ministerul Apararii Nationale Sanatoriul Baltatesti,"",""
+29,29,B,"",Ministerul Apararii Nationale Spitalul Clinic de Urgenta de Boli Cardiovasculare “Äcademician Vasile Candea”- Bucuresti,"",""
+30,30,NE,III  plan conf. ,Ministerul Apararii Nationale Spitalul Clinic Militar de Urgenta “Dr. Iacob Czihac”- Iasi,RETEA SANITARA PROPR,""
+31,31,SV,IV plan conf,Ministerul Apararii Nationale Spitalul Clinic Militar de Urgenta “Dr. Stefan Odobleja”- Craiova,RETEA SANITARA PROPR,""
+32,32,V,III  plan conf. ,Ministerul Apararii Nationale Spitalul Clinic Militar de Urgenta “DR. Victor Popescu” - Timisoara,RETEA SANITARA PROPR,""
+33,33,SE,IV,Ministerul Apararii Nationale Spitalul Militar de Urgenta “Cr. Alexandru Gafencu”- Constanta,RETEA SANITARA PROPR,""
+34,34,C,III  plan conf. ,Ministerul Apararii Nationale Spitalul Militar de Urgenta “Dr. Alexandru Augustin”- Sibiu,RETEA SANITARA PROPR,""
+35,35,SE,IV,Ministerul Apararii Nationale Spitalul Militar de Urgenta “Dr. Aristide Serfioti”- Galati,RETEA SANITARA PROPR,""
+36,36,NV,III  plan conf. ,Ministerul Apararii Nationale Spitalul Militar de Urgenta “Dr. Constantin Papilian” – Cluj Napoca,RETEA SANITARA PROPR,""
+37,37,SV,IV,Ministerul Apararii Nationale Spitalul Militar de Urgenta “Dr. Ion Jianu”- Pitesti,RETEA SANITARA PROPR,""
+38,38,C,III  plan conf. ,Ministerul Apararii Nationale Spitalul Militar de Urgenta “Regina Maria” - Brasov,RETEA SANITARA PROPR,""
+39,39,SE,IV,Ministerul Apararii Nationale Spitalul Militar de Urgenta Dr. Alexandru Popescu- Focsani,"",""
+40,40,NE,I plan conf. ,Ministerul Apararii Nationale Spitalul Universitar de Urgenta Militar Central “Dr. Carol Davila” - Bucuresti,RETEA SANITARA PROPR,""
+41,41,S,IV,Ministerul Justitiei - Administratia Nationala a Penitenciarelor Penitenciar Spital Colibasi,RETEA SANITARA PROPR,""
+42,42,NV,IV,Ministerul Justitiei - Administratia Nationala a Penitenciarelor Penitenciar Spital Dej,RETEA SANITARA PROPR,""
+43,43,B,IV,Ministerul Justitiei - Administratia Nationala a Penitenciarelor Penitenciar Spital Jilava,"",""
+44,44,SE,V,Ministerul Justitiei - Administratia Nationala a Penitenciarelor Penitenciar Spital Poarta Alba,RETEA SANITARA PROPR,""
+45,45,B,IV,Ministerul Justitiei - Administratia Nationala a Penitenciarelor Penitenciar Spital Rahova,RETEA SANITARA PROPR,""
+46,46,SE,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate CONSTANTA,RETEA SANITARA PROPR,HG 529
+47,47,SV,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate CRAIOVA,RETEA SANITARA PROPR,HG 529
+48,48,SE,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate GALATI,RETEA SANITARA PROPR,HG 529
+49,49,NE,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate IASI,RETEA SANITARA PROPR,HG 529
+50,50,NV,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate Oradea,RETEA SANITARA PROPR,HG 529
+51,51,B,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Nr.1 Cai Ferate Witing,RETEA SANITARA PROPR,HG 529
+52,52,C,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate BRASOV,RETEA SANITARA PROPR,HG 529
+53,53,C,IV,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate SIBIU,RETEA SANITARA PROPR,HG 529
+54,54,V,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate SIMERIA,RETEA SANITARA PROPR,HG 529
+55,55,V,IV,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate TIMISOARA,RETEA SANITARA PROPR,HG 529
+56,56,SV,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate TR. SEVERIN,RETEA SANITARA PROPR,HG 529
+57,57,NE,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul general CF Pascani Iasi,"",""
+58,58,S,IV,Ministerul Transporturilor si Infrastructurii Spitalul general CF Ploiesti,"",""
+59,59,NV,II plan conf. ,Ministerul Transporturilor si Infrastructurii Spitalul UNIVERSITAR Cai Ferate CLUJ NAPOCA,RETEA SANITARA PROPR,HG 529
+60,60,NE,IV,"Penitenciarul Spital Targu Ocna Str. Crizantemelor, nr.9, Tg. Ocna, Bacau",Bacau,""
+61,61,NV,V,Preventoriul TBC Ilisua Consiliul Local Uriu,Bistrita Nasaud,HG 529
+62,62,NE,V,Preventoriul TBC pentru Copii Deleni Consiliul Local Deleni,Iasi,HG 529
+63,63,SE,V,Sanatoriul Balnear si de Recuperare Mangalia,Constanta,HG 144
+64,64,SE,V,Sanatoriul Balnear si de Recuperare Techirghiol,Constanta,HG 144
+65,65,S,V,Sanatoriul Balneoclimateric de Copii Busteni,Prahova,HG 144
+66,66,NE,V,Sanatoriul de Neuropsihiatrie Podriga Consiliul Judetean Botosani,Botosani,HG 529
+67,67,C,V,Sanatoriul de Nevroze Predeal,Brasov,HG 144
+68,68,V,V,Sanatoriul de Pneumoftiziologie Brad Consiliul Judetean Hunedoara,Hunedoara,HG 529
+69,69,V,V,Sanatoriul de Pneumoftiziologie Geoagiu Consiliul Judetean Hunedoara,Hunedoara,HG 529
+70,70,V,V,Spitalul Boli Cronice Sebis Consiliul Local Sebis,Arad,HG 529
+71,71,B,II plan conf. ,Spitalul Clinic Colentina Bucuresti Primaria Municipiului Bucuresti,Bucuresti,HG 529
+72,72,B,III  plan conf. ,Spitalul Clinic Coltea Bucuresti Primaria Municipiului Bucuresti,Bucuresti,HG 529
+73,73,NV,IIM,Spitalul Clinic de Boli Infectioase Cluj Napoca Consiliul Judetean Cluj,Cluj,HG 529
+74,74,SE,IIM,Spitalul Clinic de Boli Infectioase Constanta Consiliul Local Constanta,Constanta,HG 529
+75,75,NE,IIM plan conf,Spitalul Clinic de Boli Infectioase Iasi Consiliul Judetean Iasi,Iasi,HG 529
+76,76,SV,IIM plan conf,Spitalul Clinic de Boli Infectioase si Pneumoftiziologie Craiova babes Consiliul Local Craiova,Dolj,HG 529
+77,77,V,IIM,Spitalul Clinic de Boli Infectioase Timisoara Consiliul Local Timisoara,Timis,HG 529
+78,78,B,IIM,Spitalul Clinic de Boli Infectioase Victor Babes Primaria Municipiului Bucuresti,Bucuresti,HG 529
+79,79,B,IIM,Spitalul Clinic de Chirurgie Oro-maxilo-faciala Primaria Municipiului Bucuresti,Bucuresti,HG 529
+80,80,C,II M,Spitalul Clinic de Copii Brasov Consiliul Judetean Brasov,Brasov,HG 529
+81,81,B,IIM,Spitalul Clinic de Copii Gomoiu Primaria Municipiului Bucuresti,Bucuresti,HG 529
+82,82,B,IIM,Spitalul Clinic de Nefrologie Dr. Carol Davila BucureSti,Bucuresti,HG 144
+83,83,SV,IIM plan conf,Spitalul Clinic de Neuropsihiatrie Craiova Consiliul Local Craiova,Dolj,HG 529
+84,84,B,II M,Spitalul Clinic de Obstetrica si Ginecologie Filantropia,Bucuresti,HG 144
+85,85,C,IIM,Spitalul Clinic de Obstetrica-Ginecologie Brasov Consiliul Judetean Brasov,Brasov,HG 529
+86,86,NE,IIM,Spitalul Clinic de Obstetrica-Ginecologie Iasi CUZA VODA Consiliul Judetean Iasi,Iasi,HG 529
+87,87,NE,IIM,Spitalul Clinic de Obstetrica-Ginecologie Iasi ELENA DOAMNA Consiliul Judetean Iasi,Iasi,HG 529
+88,88,B,IIM,Spitalul Clinic de Obstetrica-Ginecologie Panait Sirbu Primaria Municipiului Bucuresti,Bucuresti,HG 529
+89,89,B,II M,Spitalul Clinic de Ortopedie-Traumatologie Foisor Primaria Municipiului Bucuresti,Bucuresti,HG 529
+90,90,C,IIM,Spitalul Clinic de Pediatrie Sibiu Consiliul Local Sibiu,Sibiu,HG 529
+91,91,NV,IIM,Spitalul Clinic de Pneumoftiziologie Cluj Napoca Consiliul Judetean Cluj,Cluj,HG 529
+92,92,SE,II plan conf. ,Spitalul Clinic de Pneumoftiziologie Constanta Consiliul Judetean Constanta,Constanta,HG 529
+93,93,NE,IIM,Spitalul Clinic de Pneumoftiziologie Iasi Consiliul Judetean Iasi,Iasi,HG 529
+94,94,B,IM,Spitalul Clinic de Psihiatrie Obregia Primaria Municipiului Bucuresti,Bucuresti,HG 529
+95,95,NE,IIM,Spitalul Clinic de Psihiatrie Socola,Iasi,HG 144
+96,96,NV,IIM,Spitalul Clinic de Recuperare Cluj-Napoca Consiliul Judetean Cluj,Cluj,HG 529
+97,97,NE,IIM,Spitalul Clinic de Recuperare Iasi Consiliul Local Iasi,Iasi,HG 529
+98,98,NV,IIM,Spitalul Clinic de Recuperare Medicala Baile Felix,Bihor,HG 144
+99,99,SE,IIM,"Spitalul Clinic de Recuperare, Medicina Fizica si Balneologie Eforie Nord",Constanta,HG 144
+100,100,NV,IIM,Spitalul Clinic de Urgent a pt Copii,Cluj,HG 529
+101,101,B,I plan conf. ,Spitalul Clinic de Urgenta,Bucuresti,HG 144
+102,102,B,I M,Spitalul Clinic de Urgenta Bagdasar-Arseni,Bucuresti,HG 144
+103,103,B,I M,Spitalul Clinic de Urgenta Chirurgie Plastica Reparatorie si Arsi,Bucuresti,HG 144
+104,104,NE,IIM,Spitalul Clinic de Urgenta Iasi OBLU,Iasi,""
+105,105,B,IM,Spitalul Clinic de Urgenta pentru Copii Grigore Alexandrescu,Bucuresti,HG 144
+106,106,B,IIM,Spitalul Clinic de Urgenta pentru Copii M.S. Curie,Bucuresti,HG 144
+107,107,NE,IIM plan conf,Spitalul Clinic de Urgenta pentru Copii SF MARIA Iasi Consiliul Judetean Iasi,Iasi,HG 529
+108,108,SE,IIM,Spitalul Clinic de Urgenta pentru Copii Sf. Ioan Galati Consiliul Local Galati,Galati,HG 529
+109,109,V,IIM,Spitalul Clinic de Urgenta pentru Copii Timisoara Consiliul Local Timisoara,Timis,HG 529
+110,110,B,II,Spitalul Clinic de Urgenta Sf. Ioan,Bucuresti,HG 144
+111,111,B,II plan conf. ,Spitalul Clinic de Urgenta Sf. Pantelimon,Bucuresti,HG 144
+112,112,B,I M,Spitalul Clinic de Urgente Oftalmologice,Bucuresti,HG 144
+113,113,NE,IIM,Spitalul Clinic Dr. C.I. Parhon Iasi Consiliul Local Iasi,Iasi,HG 529
+114,114,B,III  plan conf. ,Spitalul Clinic Dr. Ion Cantacuzino,Bucuresti,HG 529
+115,115,V,II plan conf. ,Spitalul Clinic Judetean de Urgenta Arad Consiliul Judetean Arad,Arad,HG 529
+116,116,C,II plan conf. ,Spitalul Clinic Judetean de Urgenta Brasov Consiliul Judetean Brasov,Brasov,HG 529
+117,117,NV,I plan conf. ,Spitalul Clinic Judetean de Urgenta Cluj-Napoca,Cluj,HG 144
+118,118,SE,I plan conf. ,Spitalul Clinic Judetean de Urgenta Constanta Consiliul Judetean Constanta,Constanta,HG 529
+119,119,SV,II plan conf. ,Spitalul Clinic Judetean de Urgenta Craiova,Dolj,HG 144
+120,120,B,III,Spitalul Clinic Judetean de Urgenta Ilfov Consiliul Judetean Ilfov,Ilfov,HG 529
+121,121,NV,II,Spitalul Clinic Judetean de Urgenta Oradea Consiliul Local al MunicipiuluiOradea,Bihor,HG 529
+122,122,SE,II plan conf. ,Spitalul Clinic Judetean de Urgenta Sf. Apostol Andrei Consiliul Judetean Galati,Galati,HG 529
+123,123,NE,I plan conf. ,Spitalul Clinic Judetean de Urgenta Sf. Spiridon,Iasi,HG 144
+124,124,C,II plan conf. ,Spitalul Clinic Judetean de Urgenta Sibiu Consiliul Judetean Sibiu,Sibiu,HG 529
+125,125,C,I plan conf. ,Spitalul Clinic Judetean de Urgenta Targu Mures,Mures,HG 144
+126,126,V,I plan conf. ,Spitalul Clinic Judetean de Urgenta Timisoara,Timis,HG 144
+127,127,C,II,Spitalul Clinic Judetean Mures Consiliul Judetean Mures,Mures,HG 529
+128,128,NV,II plan conf. ,Spitalul Clinic Municipal Cluj-Napoca Consiliul Local Cluj-Napoca,Cluj,HG 529
+129,129,V,II plan conf. ,Spitalul Clinic Municipal de Urgenta Timisoara Consiliul Local Timisoara,Timis,HG 529
+130,130,SV,IV,Spitalul Clinic Municipal Filantropia Craiova Consiliul Local Craiova,Dolj,HG 529
+131,131,NV,II,Spitalul Clinic Municipal Oradea Consiliul Local Oradea,Bihor,HG 529
+132,132,B,III  plan conf. ,Spitalul Clinic Nicolae Malaxa Bucuresti Primaria Municipiului Bucuresti,Bucuresti,HG 529
+133,133,B,III,Spitalul clinic prof. Dr. Constantin Angelescu,Bucuresti,HG 144
+134,134,B,II M,Spitalul Clinic Prof. Dr. Th. Burghele Primaria Municipiului Bucuresti,Bucuresti,HG 529
+135,135,B,II plan conf. ,Spitalul Clinic Sf. Maria Bucuresti Primaria Municipiului Bucuresti,Bucuresti,HG 529
+136,136,SE,IV plan conf,Spitalul Comunal Vidra,Vrancea,HG 144
+137,137,S,V,Spitalul de Boli Cronice Calinesti Str.Dr.Ion Craciun nr 484,Arges,HG 1170
+138,138,C,V,Spitalul de Boli Cronice Campeni Consiliul Local Campeni,Alba,HG 529
+139,139,NV,V,Spitalul de Boli Cronice Crasna Consiliul Local Crasna,Salaj,HG 529
+140,140,B,V,Spitalul de Boli Cronice Sf. Luca,Bucuresti,HG 529
+141,141,S,V,Spitalul de Boli Cronice Smeeni Consiliul Local Smeeni,Buzau,HG 529
+142,142,C,IIM,Spitalul de Boli Infectioase Brasov Consiliul Judetean Brasov,Brasov,HG 529
+143,143,SE,V,Spitalul de Boli Infectioase Galati Consiliul Judetean Galati,Galati,HG 529
+144,144,S,V,Spitalul de Boli Infectioase Ploiesti Consiliul Local Ploiesti,Prahova,HG 529
+145,145,NV,V,Spitalul de Boli Infectioase si Psihiatrie Baia Mare Consiliul Judetean Maramures,Maramures,HG 529
+146,146,NV,V,Spitalul de Boli Psihice Cronice Borsa Consiliul Judetean Cluj,Cluj,HG 529
+147,147,S,V,Spitalul de Boli Pulmonare Breaza Consiliul Local Breaza,Prahova,HG 529
+148,148,C,V,Spitalul de Cardiologie Covasna,Covasna,HG 144
+149,149,S,V,Spitalul de Geriatrie si Boli Cronice Stefanesti Consiliul Judetean Arges,Arges,HG 529
+150,150,SE,V,Spitalul de Obstetrica-Ginecologie Galati Consiliul Local Galati,Galati,HG 529
+151,151,S,V,Spitalul de Obstetrica-Ginecologie Ploiesti Consiliul Judetean Prahova,Prahova,HG 529
+152,152,B,"",Spitalul de Obstretica Ginecologie Buftea,Ilfov,""
+153,153,S,V,Spitalul de Ortopedie si Traumatologie Azuga Consiliul Local Azuga,Prahova,HG 529
+154,154,SE,V,"Spitalul de Ortopedie, Traumatologie si Recuperare Medicala Eforie Sud Consiliul Judetean Constanta",Constanta,HG 529
+155,155,S,IV,Spitalul de Pediatrie Pitesti Consiliul Judetean Arges,Arges,HG 529
+156,156,S,V,Spitalul de Pediatrie Ploiesti Consiliul Judetean Prahova,Prahova,HG 529
+157,157,C,V,Spitalul de Pneumoftiziologie Aiud Consiliul Judetean Alba,Alba,HG 529
+158,158,NE,V,Spitalul de Pneumoftiziologie Bacau Consiliul Local Bacau,Bacau,HG 529
+159,159,NV,V,Spitalul de Pneumoftiziologie Baia Mare Consiliul Local Baia Mare,Maramures,HG 529
+160,160,NE,V,Spitalul de Pneumoftiziologie Bisericani Consiliul Local Alexandru cel Bun,Neamt,HG 529
+161,161,NE,V,Spitalul de Pneumoftiziologie Botosani Consiliul Local Botosani,Botosani,HG 529
+162,162,SE,V,Spitalul de Pneumoftiziologie Braila Consiliul Judetean Braila,Braila,HG 529
+163,163,C,V,Spitalul de Pneumoftiziologie Brasov Consiliul Judetean Brasov,Brasov,HG 529
+164,164,S,V,Spitalul de Pneumoftiziologie Calarasi Consiliul Judetean Calarasi,Calarasi,HG 529
+165,165,S,V,Spitalul de Pneumoftiziologie Campulung Consiliul Local al Municipiului Campulung,Arges,HG 529
+166,166,S,V,Spitalul de Pneumoftiziologie Drajna Consiliul Local Drajna,Prahova,HG 529
+167,167,S,V,Spitalul de Pneumoftiziologie Floresti Consiliul Local Floresti,Prahova,HG 529
+168,168,SE,V,Spitalul de Pneumoftiziologie Galati Consiliul Judetean Galati,Galati,HG 529
+169,169,S,V,Spitalul de Pneumoftiziologie Izvoru Consiliul Judetean Giurgiu,Giurgiu,HG 529
+170,170,SV,V,Spitalul de Pneumoftiziologie Leamna Consiliul Judetean Dolj,Dolj,HG 529
+171,171,S,V,Spitalul de Pneumoftiziologie Leordeni Consiliul Judetean Arges,Arges,HG 529
+172,172,SV,V,Spitalul de Pneumoftiziologie Mihaesti Consiliul Judetean Valcea,Valcea,HG 529
+173,173,S,V,Spitalul de Pneumoftiziologie Rosiori de Vede Consiliul Judetean Teleorman,Teleorman,HG 529
+174,174,SV,V,Spitalul de Pneumoftiziologie Runcu Consiliul Judetean Gorj,Gorj,HG 529
+175,175,NV,V,Spitalul de Pneumoftiziologie Satu Mare Consiliul Judetean Satu Mare,Satu Mare,HG 529
+176,176,S,V,Spitalul de Pneumoftiziologie Sf. Andrei Valea Iasului Consiliul Judetean Arges,Arges,HG 529
+177,177,B,V,Spitalul de Pneumoftiziologie Sf. Stefan,Bucuresti,HG 529
+178,178,C,V,Spitalul de Pneumoftiziologie Sibiu Consiliul Judetean Sibiu,Sibiu,HG 529
+179,179,B,V,Spitalul de Psihiatrie Balaceanca Consiliul Judetean Ilfov,Ilfov,HG 529
+180,180,NE,V,Spitalul de Psihiatrie Campulung Moldovenesc Consiliul Local Campulung Moldovenesc,Suceava,HG 529
+181,181,V,V plan conf. ,Spitalul de Psihiatrie Capalnas Consiliul Judetean Arad,Arad,HG 529
+182,182,NV,V,Spitalul de Psihiatrie Cavnic Consiliul Local Cavnic,Maramures,HG 529
+183,183,SE,V,Spitalul de Psihiatrie Cronici Dumbraveni,Vrancea,HG 144
+184,184,SV,V,Spitalul de Psihiatrie Cronici Schitu Greci Consiliul Judetean Olt,Olt,HG 529
+185,185,NE,V,Spitalul de Psihiatrie Cronici Siret Consiliul Local Siret,Suceava,HG 529
+186,186,C,V,Spitalul de Psihiatrie Dr. Gheorghe Preda Sibiu Consiliul Judetean Sibiu,Sibiu,HG 529
+187,187,SV,V,Spitalul de Psihiatrie Dragoesti Consiliul Judetean Valcea,Valcea,HG 529
+188,188,SE,V,Spitalul de Psihiatrie Elisabeta Doamna Galati Consiliul Local Galati,Galati,HG 529
+189,189,V,V,Spitalul de Psihiatrie Gataia,Timis,HG 144
+190,190,V,V,Spitalul de Psihiatrie Mocrea Consiliul Judetean Arad,Arad,HG 529
+191,191,NE,V,Spitalul de Psihiatrie Murgeni Consiliul Local Murgeni,Vaslui,HG 529
+192,192,NV,V,Spitalul de Psihiatrie Nucet Consiliul Judetean Bihor,Bihor,HG 529
+193,193,SV,V,Spitalul de Psihiatrie Poiana Mare,Dolj,HG 144
+194,194,S,V,Spitalul de Psihiatrie Poroschia Consiliul Judetean Teleorman,Teleorman,HG 529
+195,195,S,V,Spitalul de Psihiatrie Sapunari Consiliul Judetean Calarasi,Calarasi,HG 529
+196,196,S,V,Spitalul de Psihiatrie Sf. Maria Vedea Consiliul Judetean Arges,Arges,HG 529
+197,197,NE,V,Spitalul de Psihiatrie Sf. Nicolae Roman Consiliul Judetean Neamt,Neamt,HG 529
+198,198,SE,V,Spitalul de Psihiatrie Sf. Pantelimon Braila Consiliul Local Braila,Braila,HG 529
+199,199,C,IIM,Spitalul de Psihiatrie si Neurologie Brasov Consiliul Judetean Brasov,Brasov,HG 529
+200,200,V,IV,Spitalul de Psihiatrie si pentru Masuri de Siguranta Jebel,Timis,HG 144
+201,201,NE,IV,Spitalul de Psihiatrie si pentru Masuri de Siguranta Padureni Grajduri,Iasi,HG 144
+202,202,S,IV,Spitalul de Psihiatrie si pentru Masuri de Siguranta Sapoca,Buzau,HG 144
+203,203,NV,IV,Spitalul de Psihiatrie si pentru Masuri de Siguranta Stei,Bihor,HG 144
+204,204,B,V,Spitalul de Psihiatrie Titan Gorgos Primaria Municipiului Bucuresti,Bucuresti,HG 529
+205,205,C,V,Spitalul de Psihiatrie Tulghes Consiliul Judetean Harghita,Harghita,HG 529
+206,206,S,V,Spitalul de Psihiatrie Voila Consiliul Local Campina,Prahova,HG 529
+207,207,V,V,Spitalul de Psihiatrie Zam,Hunedoara,HG 144
+208,208,NV,IV,Spitalul de Recuperare Borsa,Maramures,HG 144
+209,209,S,V,Spitalul de Recuperare Bradet Consiliul Judetean Arges,Arges,HG 529
+210,210,V,V,Spitalul de Recuperare Neuromotorie dr. Corneliu Barsan Dezna,Arad,HG 144
+211,211,NE,V,Spitalul de Recuperare Sf. Gheorghe Botosani Consiliul Local Botosani,Botosani,HG 529
+212,212,SE,III  plan conf. ,Spitalul de Urgenta Judetean Braila Consiliul Judetean Braila,Braila,HG 529
+213,213,V,III  plan conf. ,Spitalul de Urgenta Petrosani Consiliul Local Petrosani,Hunedoara,HG 529
+214,214,B,II  plan conf. ,Spitalul de Urgenta Prof.dr. Dimitrie Gerota Bucuresti MAI,Bucuresti,HG 144
+215,215,V,IV,Spitalul Dr. Karl Diel Jimbolia Consiliul Local Jimbolia,Timis,HG 529
+216,216,B,II  plan conf. ,Spitalul general C.F.R nr. 2,Bucuresti,HG 144
+217,217,C,III,Spitalul Judetean de Urgenta Alba Iulia Consiliul Judetean Alba,Alba,HG 529
+218,218,S,III  plan conf. ,Spitalul Judetean de Urgenta Alexandria Consiliul Judetean Teleorman,Teleorman,HG 529
+219,219,NE,III  plan conf. ,Spitalul Judetean de Urgenta Bacau Consiliul Judetean Bacau,Bacau,HG 529
+220,220,NV,III  plan conf. ,Spitalul Judetean de Urgenta Baia Mare Consiliul Judetean Maramures,Maramures,HG 529
+221,221,NV,III,Spitalul Judetean de Urgenta Bistrita Consiliul Judetean Bistrita Nasaud,Bistrita Nasaud,HG 529
+222,222,S,III,Spitalul Judetean de Urgenta Buzau Consiliul Judetean Buzau,Buzau,HG 529
+223,223,S,III  plan conf. ,Spitalul Judetean de Urgenta Calarasi Consiliul Judetean Calarasi,Calarasi,HG 529
+224,224,V,III  plan conf. ,Spitalul Judetean de Urgenta Deva Consiliul Judetean Hunedoara,Hunedoara,HG 529
+225,225,C,III,Spitalul Judetean de Urgenta Dr. Fogolyan Kristof Sfantu Gheorghe Consiliul Judetean Covasna,Covasna,HG 529
+226,226,SV,III  plan conf. ,Spitalul Judetean de Urgenta Dr. Tr. Severin Consiliul Judetean Mehedinti,Mehedinti,HG 529
+227,227,S,III  plan conf. ,Spitalul Judetean de Urgenta Giurgiu Consiliul Judetean Giurgiu,Giurgiu,HG 529
+228,228,NE,III  plan conf. ,Spitalul Judetean de Urgenta Mavromati Botosani Consiliul Judetean Botosani,Botosani,HG 529
+229,229,C,III,Spitalul Judetean de Urgenta Miercurea-Ciuc Consiliul Judetean Harghita,Harghita,HG 529
+230,230,NE,III,Spitalul Judetean de Urgenta Piatra-Neamt Consiliul Judetean Neamt,Neamt,HG 529
+231,231,S,III  plan conf. ,Spitalul Judetean de Urgenta Pitesti Consiliul Judetean Arges,Arges,HG 529
+232,232,S,III,Spitalul Judetean de Urgenta Ploiesti Consiliul Judetean Prahova,Prahova,HG 529
+233,233,SV,III  plan conf. ,Spitalul Judetean de Urgenta Ramnicu Valcea Consiliul Judetean Valcea,Valcea,HG 529
+234,234,V,III,Spitalul Judetean de Urgenta Resita Consiliul Judetean Caras Severin,Caras Severin,HG 529
+235,235,NV,III  plan conf. ,Spitalul Judetean de Urgenta Satu Mare Consiliul Judetean Satu Mare,Satu Mare,HG 529
+236,236,SE,III,Spitalul Judetean de Urgenta Sf. Pantelimon Focsani,Vrancea,HG 144
+237,237,SV,III,Spitalul Judetean de Urgenta Slatina Consiliul Judetean Olt,Olt,HG 529
+238,238,S,III,Spitalul Judetean de Urgenta Slobozia Consiliul Judetean Ialomita,Ialomita,HG 529
+239,239,NE,III,Spitalul Judetean de Urgenta Suceava Consiliul Judetean Suceava,Suceava,HG 529
+240,240,S,III,Spitalul Judetean de Urgenta Targoviste Consiliul Judetean Dambovita,Dambovita,HG 529
+241,241,SV,III,Spitalul Judetean de Urgenta Targu Jiu Consiliul Judetean Gorj,Gorj,HG 529
+242,242,SE,III,Spitalul Judetean de Urgenta Tulcea Consiliul Judetean Tulcea,Tulcea,HG 529
+243,243,NE,III  plan conf. ,Spitalul Judetean de Urgenta Vaslui Consiliul Judetean Vaslui,Vaslui,HG 529
+244,244,NV,III,Spitalul Judetean de Urgenta Zalau Consiliul Judetean Salaj,Salaj,HG 529
+245,245,B,II  plan conf. ,Spitalul Militar de Urgenta Prof. Dr. Agrippa Ionescu Bucuresti SRI,Bucuresti,HG 144
+246,246,SE,IV,Spitalul Municipal Adjud Consiliul Local Adjud,Vrancea,HG 529
+247,247,C,IV,Spitalul Municipal Aiud Consiliul Local Aiud,Alba,HG 529
+248,248,SE,IV,Spitalul Municipal Anton Cincu Tecuci Consiliul Local Tecuci,Galati,HG 529
+249,249,SV,IV,Spitalul Municipal Bailesti Consiliul Local Bailesti,Dolj,HG 529
+250,250,C,IV,Spitalul Municipal Blaj Consiliul Local Blaj,Alba,HG 529
+251,251,V,IV,Spitalul Municipal Brad Consiliul Local Brad,Hunedoara,HG 529
+252,252,SV,IV,Spitalul Municipal Calafat Consiliul Local Calafat,Dolj,HG 529
+253,253,NV,IV,Spitalul Municipal Campia Turzii Consiliul Local Campia Turzii,Cluj,HG 529
+254,254,S,IV,Spitalul Municipal Campina Consiliul Local Campina,Prahova,HG 529
+255,255,S,IV,Spitalul Municipal Campulung Consiliul Local Campulung,Arges,HG 529
+256,256,NE,IV,Spitalul Municipal Campulung Moldovenesc Consiliul Local Campulung Moldovenesc,Suceava,HG 529
+257,257,SV,IV,Spitalul Municipal Caracal Consiliul Local Caracal,Olt,HG 529
+258,258,NV,IV plan conf,Spitalul Municipal Carei Consiliul Local Carei,Satu Mare,HG 529
+259,259,S,IV,Spitalul Municipal Caritas Rosiori de Vede Consiliul Local Rosiori de Vede,Teleorman,HG 529
+260,260,C,"",Spitalul Municipal Codlea Consiliul Local Codlea,Brasov,HG 529
+261,261,SV,IV,Spitalul Municipal Costache Nicolescu Dragasani Consiliul Local Dragasani,Valcea,HG 529
+262,262,S,IV,Spitalul Municipal Curtea de Arges Consiliul Local Curtea de Arges,Arges,HG 529
+263,263,NE,III  plan conf. ,Spitalul Municipal de Urgenta Barlad Consiliul Local Barlad,Vaslui,HG 529
+264,264,V,III  plan conf. ,Spitalul Municipal de Urgenta Caransebes Consiliul Local Caransebes,Caras Severin,HG 529
+265,265,NE,III  plan conf. ,Spitalul Municipal de Urgenta Moinesti Consiliul Local Moinesti,Bacau,HG 529
+266,266,NE,III  plan conf. ,Spitalul Municipal de Urgenta Roman Consiliul Local Roman,Neamt,HG 529
+267,267,NV,IV,Spitalul Municipal Dej Consiliul Local Dej,Cluj,HG 529
+268,268,NE,IV,Spitalul Municipal Dimitrie Castroian Husi Consiliul Local Husi,Vaslui,HG 529
+269,269,NE,IV,Spitalul Municipal Dorohoi Consiliul Local Dorohoi,Botosani,HG 529
+270,270,C,IV,Spitalul Municipal Dr. Aurel Tulbure Fagaras Consiliul Local Fagaras,Brasov,HG 529
+271,271,C,IV,Spitalul Municipal Dr. E. Nicoara Reghin Consiliul Local Reghin,Mures,HG 529
+272,272,C,IV,Spitalul Municipal Dr. Gheorghe Marinescu Tarnaveni Consiliul Judetean Mures,Mures,HG 529
+273,273,NV,IV,Spitalul Municipal Dr. Pop Mircea Marghita Consiliul Local Marghita,Bihor,HG 529
+274,274,NV,IV,Spitalul Municipal Episcop N. Popovici Beius Consiliul Local Beius,Bihor,HG 529
+275,275,NE,IV,Spitalul Municipal Falticeni Consiliul Local Falticeni,Suceava,HG 529
+276,276,S,IV,Spitalul Municipal Fetesti Consiliul Local Fetesti,Ialomita,HG 529
+277,277,C,IV,Spitalul Municipal Gheorghieni Consiliul Local Gheorghieni,Harghita,HG 529
+278,278,NV,IV,Spitalul Municipal Gherla Consiliul Local Gherla,Cluj,HG 529
+279,279,V,III  plan conf. ,Spitalul Municipal Hunedoara Consiliul Local Hunedoara,Hunedoara,HG 529
+280,280,V,IV,Spitalul Municipal Lugoj Consiliul Local Lugoj,Timis,HG 529
+281,281,V,IV,Spitalul Municipal Lupeni Consiliul Local Lupeni,Hunedoara,HG 529
+282,282,SE,IV,Spitalul Municipal Mangalia Consiliul Local Medgidia,Constanta,HG 529
+283,283,SE,III  plan conf. ,Spitalul Municipal Medgidia Consiliul Local Medgidia,Constanta,HG 529
+284,284,C,IV,Spitalul Municipal Medias Consiliul Local Medias,Sibiu,HG 529
+285,285,S,IV,Spitalul Municipal Moreni Consiliul Local Moreni,Dambovita,HG 529
+286,286,SV,IV plan conf,Spitalul Municipal Motru Consiliul Local Motru,Gorj,HG 529
+287,287,C,III  plan conf. ,Spitalul Municipal Odorheiu Secuiesc Consiliul Local Odorheiu Secuiesc,Harghita,HG 529
+288,288,S,IV,Spitalul Municipal Oltenita Consiliul Local Oltenita,Calarasi,HG 529
+289,289,NE,III  plan conf. ,Spitalul Municipal Onesti Consiliul Local Onesti,Bacau,HG 529
+290,290,V,IV,Spitalul Municipal Orastie Consiliul Local Orastie,Hunedoara,HG 529
+291,291,SV,IV plan conf,Spitalul Municipal Orsova Consiliul Local Orsova,Mehedinti,HG 529
+292,292,NE,IV,Spitalul Municipal Pascani Consiliul Local Pascani,Iasi,HG 529
+293,293,S,IV plan conf,Spitalul Municipal Ploiesti Consiliul Local Ploiesti,Prahova,HG 529
+294,294,NE,IV,Spitalul Municipal Radauti Consiliul Local Radauti,Suceava,HG 529
+295,295,S,IV,Spitalul Municipal Ramnicu Sarat Consiliul Local Ramnicu Sarat,Buzau,HG 529
+296,296,NV,IV,Spitalul Municipal Salonta Consiliul Local Salonta,Bihor,HG 529
+297,297,C,IV,Spitalul Municipal Sebes Consiliul Local Sebes,Alba,HG 529
+298,298,NV,IV,Spitalul Municipal Sighetu Marmatiei Consiliul Local Sighetu Marmatiei,Maramures,HG 529
+299,299,C,IV,Spitalul Municipal Sighisoara Consiliul Local Sighisoara,Mures,HG 529
+300,300,C,IV,Spitalul Municipal Targu Secuiesc Consiliul Local Targu Secuiesc,Covasna,HG 529
+301,301,C,IV,Spitalul Municipal Toplita Consiliul Local Toplita,Harghita,HG 529
+302,302,NV,IV,Spitalul Municipal Turda Consiliul Local Turda,Cluj,HG 529
+303,303,S,IV,Spitalul Municipal Turnu Magurele Consiliul Local Turnu Magurele,Teleorman,HG 529
+304,304,S,IV,Spitalul Municipal Urziceni Consiliul Local Urziceni,Ialomita,HG 529
+305,305,NE,IV plan conf,Spitalul Municipal Vatra Dornei Consiliul Local Vatra Dornei,Suceava,HG 529
+306,306,V,IV plan conf,Spitalul Municipal Vulcan Consiliul Local Vulcan,Hunedoara,HG 529
+307,307,C,IV plan conf,Spitalul Orasenesc Abrud Consiliul Local Abrud,Alba,HG 529
+308,308,C,IV plan conf,Spitalul Orasenesc Agnita Consiliul Local Agnita,Sibiu,HG 529
+309,309,NV,IV,Spitalul Orasenesc Alesd Consiliul Local Alesd,Bihor,HG 529
+310,310,SV,IV plan conf,Spitalul Orasenesc Asezamintele Brancovenesti Dabuleni Consiliul Judetean Dolj,Dolj,HG 529
+311,311,SV,IV plan conf,Spitalul Orasenesc Baia de Arama Consiliul Local Baia de Arama,Mehedinti,HG 529
+312,312,S,IV plan conf,Spitalul Orasenesc Baicoi Consiliul Local Baicoi,Prahova,HG 529
+313,313,SV,IV,Spitalul Orasenesc Bals Consiliul Local Bals,Olt,HG 529
+314,314,C,IV plan conf,Spitalul Orasenesc Baraolt Consiliul Local Baraolt,Covasna,HG 529
+315,315,NV,V,Spitalul Orasenesc Beclean Consiliul Local Beclean,Bistrita Nasaud,HG 529
+316,316,S,IV,Spitalul Orasenesc Bolintin-Vale Consiliul Local Bolintin-Vale,Giurgiu,HG 529
+317,317,SV,IV plan conf,Spitalul Orasenesc Brezoi Consiliul Local Brezoi,Valcea,HG 529
+318,318,NE,IV,Spitalul Orasenesc Buhusi Consiliul Local Buhusi,Bacau,HG 529
+319,319,SV,"",Spitalul Orasenesc Bumbesti-Jiu Consiliul Local al Orasului Bumbesti-Jiu,Gorj,HG 529
+320,320,C,IV,Spitalul Orasenesc Campeni Consiliul Local Campeni,Alba,HG 529
+321,321,SE,IV plan conf,Spitalul Orasenesc Cernavoda Consiliul Local Cernavoda,Constanta,HG 529
+322,322,SV,IV plan conf,Spitalul Orasenesc Corabia Consiliul Local Corabia,Olt,HG 529
+323,323,C,IV plan conf,Spitalul Orasenesc Cugir Consiliul Local Cugir,Alba,HG 529
+324,324,V,IV plan conf,Spitalul Orasenesc Deta Consiliul Local Deta,Timis,HG 529
+325,325,C,IV plan conf,Spitalul Orasenesc Dr. C.T. Sparchez Zarnesti Consiliul Local Zarnesti,Brasov,HG 529
+326,326,NV,IV,Spitalul Orasenesc Dr. George Trifon Nasaud Consiliul Local Nasaud,Bistrita Nasaud,HG 529
+327,327,C,IV,Spitalul Orasenesc Dr. Valer Russu Ludus Consiliul Local Ludus,Mures,HG 529
+328,328,V,IV,Spitalul Orasenesc Faget Consiliul Local Faget,Timis,HG 529
+329,329,SE,IV plan conf,Spitalul Orasenesc Faurei Consiliul Local Faurei,Braila,HG 529
+330,330,SV,IV,Spitalul Orasenesc Filiasi Consiliul Local Filiasi,Dolj,HG 529
+331,331,S,IV,Spitalul Orasenesc Gaesti Consiliul Local Gaesti,Dambovita,HG 529
+332,332,NE,IV plan conf,Spitalul Orasenesc Gura Humorului Consiliul Local Gura Humorului,Suceava,HG 529
+333,333,NE,IV,Spitalul Orasenesc Harlau Consiliul Local Harlau,Iasi,HG 529
+334,334,SE,IV plan conf,Spitalul Orasenesc Harsova Consiliul Local Harsova,Constanta,HG 529
+335,335,V,IV,Spitalul Orasenesc Hateg Consiliul Local Hateg,Hunedoara,HG 529
+336,336,SV,IV,Spitalul Orasenesc Horezu Consiliul Local Horezu,Valcea,HG 529
+337,337,NV,IV,Spitalul Orasenesc Huedin Consiliul Local Huedin,Cluj,HG 529
+338,338,V,IV plan conf,Spitalul Orasenesc Ineu Consiliul Local Ineu,Arad,HG 529
+339,339,NE,"",Spitalul Orasenesc Ioan Lascar Comanesti Consiliul Local Comanesti,Bacau,HG 529
+340,340,NV,IV plan conf,Spitalul Orasenesc Jibou Consiliul Local Jibou,Salaj,HG 529
+341,341,S,IV,Spitalul Orasenesc Lehliu-Gara Consiliul Local Lehliu-Gara,Calarasi,HG 529
+342,342,V,IV plan conf,Spitalul Orasenesc Lipova Consiliul Local Lipova,Arad,HG 529
+343,343,SE,IV,Spitalul Orasenesc Macin Consiliul Local Macin,Tulcea,HG 529
+344,344,V,IV plan conf,Spitalul Orasenesc Moldova Noua Consiliul Local Moldova Noua,Caras Severin,HG 529
+345,345,NV,IV,Spitalul Orasenesc Negresti-Oas Consiliul Judetean Satu Mare,Satu Mare,HG 529
+346,346,S,IV,Spitalul Orasenesc Nehoiu Consiliul Local Nehoiu,Buzau,HG 529
+347,347,SV,IV,Spitalul Orasenesc Novaci Consiliul Local Novaci,Gorj,HG 529
+348,348,V,IV,Spitalul Orasenesc Oravita Consiliul Local Oravita,Caras Severin,HG 529
+349,349,V,IV,Spitalul Orasenesc Otelu Rosu Consiliul Local Otelu Rosu,Caras Severin,HG 529
+350,350,SE,IV,Spitalul Orasenesc Panciu Consiliul Local Panciu,Vrancea,HG 529
+351,351,S,IV,Spitalul Orasenesc Pucioasa Consiliul Local Pucioasa,Dambovita,HG 529
+352,352,S,IV,Spitalul Orasenesc Regele Carol I Costesti Consiliul Judetean Arges,Arges,HG 529
+353,353,C,IV plan conf,Spitalul Orasenesc Rupea Consiliul Local Rupea,Brasov,HG 529
+354,354,C,IV plan conf,Spitalul Orasenesc Sangeorgiu de Padure Consiliul Local Sangiorgiu de Padure,Mures,HG 529
+355,355,V,IV,Spitalul Orasenesc Sannicolau Mare Consiliul Local Sannicolau Mare,Timis,HG 529
+356,356,SV,IV,Spitalul Orasenesc Segarcea Consiliul Local Segarcea,Dolj,HG 529
+357,357,S,IV,Spitalul Orasenesc Sf. Filofteia Mizil Consiliul Local Mizil,Prahova,HG 529
+358,358,S,IV plan conf,Spitalul Orasenesc Sf. Spiridon Mioveni Consiliul Local Mioveni,Arges,HG 529
+359,359,SV,IV plan conf,Spitalul Orasenesc Sf. Stefan Rovinari Consiliul Local Rovinari,Gorj,HG 529
+360,360,NV,IV,Spitalul Orasenesc Simleul Silvaniei Consiliul Local Simleul Silvaniei,Salaj,""
+361,361,S,IV,Spitalul Orasenesc Sinaia Consiliul Local Sinaia,Prahova,HG 529
+362,362,NE,V,Spitalul Orasenesc Siret Consiliul Local Siret,Suceava,HG 529
+363,363,NV,"",Spitalul Orasenesc Stei,Bihor,""
+364,364,S,"",Spitalul Orasenesc Tandarei Consiliul Local Tandarei,Ialomita,""
+365,365,SE,IV plan conf,Spitalul Orasenesc Targu Bujor Consiliul Local Targu Bujor,Galati,HG 529
+366,366,SV,III  plan conf. ,Spitalul Orasenesc Targu Carbunesti Consiliul Local Targu Carbunesti,Gorj,HG 529
+367,367,NV,IV plan conf,Spitalul Orasenesc Targu Lapus Consiliul Local Targu Lapus,Maramures,HG 529
+368,368,NE,IV,Spitalul Orasenesc Targu-Neamt Consiliul Local Targu-Neamt,Neamt,HG 529
+369,369,SV,IV,Spitalul Orasenesc Turceni Consiliul Local Turceni,Gorj,HG 529
+370,370,S,IV,Spitalul Orasenesc Valenii de Munte Consiliul Local Valenii de Munte,Prahova,HG 529
+371,371,NV,IV,Spitalul Orasenesc Viseu de Sus Consiliul Local Viseu de Sus,Maramures,HG 529
+372,372,S,IV,Spitalul Orasenesc Zimnicea Consiliul Local Zimnicea,Teleorman,HG 529
+373,373,NV,V,SPITALUL SALVOSAN,Salaj,""
+374,374,C,V plan conf. ,Spitalul Sovata - Niraj Consiliul Local Sovata,Mures,HG 529
+375,375,B,I plan conf. ,Spitalul Universitar de Urgenta,Bucuresti,HG 144
