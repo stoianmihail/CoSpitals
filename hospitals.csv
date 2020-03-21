@@ -27,7 +27,7 @@
 26,26,NE,"",Institutul Regional de Oncologie Iasi,Iasi,HG 144
 27,27,NV,IV,"Ministerul Administratiei si Internelor Spitalul Clinic de Urgenta Avram Iancu, Oradea","",""
 28,28,NE,"",Ministerul Apararii Nationale Sanatoriul Baltatesti,"",""
-29,29,B,"",Ministerul Apararii Nationale Spitalul Clinic de Urgenta de Boli Cardiovasculare “Äcademician Vasile Candea”- Bucuresti,"",""
+29,29,B,"",Ministerul Apararii Nationale Spitalul Clinic de Urgenta de Boli Cardiovasculare “Academician Vasile Candea”- Bucuresti,"",""
 30,30,NE,III  plan conf. ,Ministerul Apararii Nationale Spitalul Clinic Militar de Urgenta “Dr. Iacob Czihac”- Iasi,RETEA SANITARA PROPR,""
 31,31,SV,IV plan conf,Ministerul Apararii Nationale Spitalul Clinic Militar de Urgenta “Dr. Stefan Odobleja”- Craiova,RETEA SANITARA PROPR,""
 32,32,V,III  plan conf. ,Ministerul Apararii Nationale Spitalul Clinic Militar de Urgenta “DR. Victor Popescu” - Timisoara,RETEA SANITARA PROPR,""
@@ -49,16 +49,16 @@
 48,48,SE,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate GALATI,RETEA SANITARA PROPR,HG 529
 49,49,NE,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate IASI,RETEA SANITARA PROPR,HG 529
 50,50,NV,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Cai Ferate Oradea,RETEA SANITARA PROPR,HG 529
-51,51,B,IV,Ministerul Transporturilor si Infrastructurii Spitalul Clinic Nr.1 Cai Ferate Witing,RETEA SANITARA PROPR,HG 529
+51,51,B,IV,Spitalul Clinic Cai Ferate Witting,RETEA SANITARA PROPR,HG 529
 52,52,C,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate BRASOV,RETEA SANITARA PROPR,HG 529
 53,53,C,IV,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate SIBIU,RETEA SANITARA PROPR,HG 529
 54,54,V,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate SIMERIA,RETEA SANITARA PROPR,HG 529
 55,55,V,IV,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate TIMISOARA,RETEA SANITARA PROPR,HG 529
 56,56,SV,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul GENERAL Cai Ferate TR. SEVERIN,RETEA SANITARA PROPR,HG 529
-57,57,NE,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul general CF Pascani Iasi,"",""
-58,58,S,IV,Ministerul Transporturilor si Infrastructurii Spitalul general CF Ploiesti,"",""
+57,57,NE,IV plan conf,Ministerul Transporturilor si Infrastructurii Spitalul general Cai Ferate Pascani Iasi,"",""
+58,58,S,IV,Ministerul Transporturilor si Infrastructurii Spitalul general Cai Ferate Ploiesti,"",""
 59,59,NV,II plan conf. ,Ministerul Transporturilor si Infrastructurii Spitalul UNIVERSITAR Cai Ferate CLUJ NAPOCA,RETEA SANITARA PROPR,HG 529
-60,60,NE,IV,"Penitenciarul Spital Targu Ocna Str. Crizantemelor, nr.9, Tg. Ocna, Bacau",Bacau,""
+60,60,NE,IV,Penitenciarul Spital Targu Ocna Bacau,Bacau,""
 61,61,NV,V,Preventoriul TBC Ilisua Consiliul Local Uriu,Bistrita Nasaud,HG 529
 62,62,NE,V,Preventoriul TBC pentru Copii Deleni Consiliul Local Deleni,Iasi,HG 529
 63,63,SE,V,Sanatoriul Balnear si de Recuperare Mangalia,Constanta,HG 144
@@ -135,7 +135,7 @@
 134,134,B,II M,Spitalul Clinic Prof. Dr. Th. Burghele Primaria Municipiului Bucuresti,Bucuresti,HG 529
 135,135,B,II plan conf. ,Spitalul Clinic Sf. Maria Bucuresti Primaria Municipiului Bucuresti,Bucuresti,HG 529
 136,136,SE,IV plan conf,Spitalul Comunal Vidra,Vrancea,HG 144
-137,137,S,V,Spitalul de Boli Cronice Calinesti Str.Dr.Ion Craciun nr 484,Arges,HG 1170
+137,137,S,V,Spitalul de Boli Cronice Calinesti,Arges,HG 1170
 138,138,C,V,Spitalul de Boli Cronice Campeni Consiliul Local Campeni,Alba,HG 529
 139,139,NV,V,Spitalul de Boli Cronice Crasna Consiliul Local Crasna,Salaj,HG 529
 140,140,B,V,Spitalul de Boli Cronice Sf. Luca,Bucuresti,HG 529

@@ -1,63 +1,91 @@
 import re
 import sys
 import csv
-import html
-import string
-import urllib.request
+import json
 from unidecode import unidecode
 
-def getHtmlText(url):
-# get the html text from this url
-  # Connect to the site
-  request = urllib.request.Request(url)
-  response = urllib.request.urlopen(request)
-    
-  # Decode the site into utf-8
-  return response.read().decode('utf-8')
+# Custom function to correctly capitalize the words 
+def upperPart(name):
+  keep = [
+    "tbc",
+    "c.f.r"
+  ]
+  if name.isupper() and name.lower() in keep:
+    return name
+  if name.isupper() and not (name.lower() in keep):
+    return name.capitalize()
+  
+  toUpper = [
+    "general"
+  ]
+  if name in toUpper:
+    return name.capitalize()
+  return name
 
-def parseGPS(hospital):
-  pattern = "https://www.google.com/maps/search/"
-  text = getHtmlText(pattern + hospital)
-  gpsPattern = "center="
-  pos = text.find(gpsPattern)
-  nextPos = text[pos:].find('&')
-  gps = text[(pos + len(gpsPattern)):(pos + nextPos)]
-  splitted = gps.split("%2C")
-  if len(splitted) < 2:
-    print("error: " + hospital)
-    sys.exit(1)
-    pass
-  else:
-    latitude = splitted[0]
-    longitude = splitted[1]
-  return (latitude, longitude)
+# Get rid of unusable information about the minister
+def cleanMinisters(name):
+  ministers = [
+    "Ministerul Apararii Nationale",
+    "Ministerul Administratiei si Internelor",
+    "Ministerul Transporturilor si Infrastructurii",
+    "Ministerul Justitiei - Administratia Nationala a Penitenciarelor Penitenciar"
+  ]
+  for minister in ministers:
+    name = name.replace(minister, "")
+  return name
 
-def parseAll(fileName):
-  with open(fileName, "r") as csvfile:
-    csvreader = csv.reader(csvfile)
-    fields = next(csvreader)
-    print(fields)
+# Parse all hospitals
+def parseAll():
+  with open("hospitals.csv", "r") as csvfile:
+    with open("final.txt", "r") as final:
+      hospitals = []
+      csvreader = csv.reader(csvfile)
+      next(csvreader)
+      
+      for row in csvreader:
+        # Consider only the name from the current row
+        name = row[4]
+        finalLine = final.readline()
+        
+        # Take the values of the coordinates
+        pos1 = finalLine.find("(")
+        pos2 = finalLine[pos1:].find(")")
+        coords = finalLine[(pos1 + 1) : (pos1 + pos2)].split(",")
+        latitude = float(coords[0])
+        longitude = float(coords[1])
+        
+        # Get rid of the minister information
+        name = cleanMinisters(name).strip()
+        
+        # And correctly capitalize each word
+        saved = []
+        parts = name.split()
+        finalName = ""
+        for index, part in enumerate(parts):
+          part = upperPart(part)
+          if index == len(parts) - 1:
+            finalName += part
+          else:
+            finalName += part
+            finalName += " "
+        # Optional: get rid of diacritics
+        hospitalName = unidecode(finalName)
+        
+        # And add the new hospital
+        hospitals.append({
+          'name' : hospitalName,
+          'latitude' : latitude,
+          'longitude' : longitude,
+          'beds' : 0,
+          'respirators' : 0
+        })
+      return hospitals
     
-    output = open("saved.txt", "w")
-    
-    hospitals = []
-    for row in csvreader:
-      if int(row[0]) <= 44:
-        continue
-      name = row[4]
-      name = name.replace(" ", "+")
-      name = re.sub('[^a-zA-Z+]+', '', name)
-      coord = parseGPS(name)
-      print(name + " -> " + str(coord))
-      output.write(name + str(coord) + "\n")
-      hospitals.append((name, coord)) 
-    output.close()
-    return hospitals
-
-def main(fileName):
-  hospitals = parseAll(fileName)
-  print(hospitals)
-  pass
+def main():
+  # Dump to json file
+  with open('json_data.txt', 'w') as file:
+    hospitals = parseAll()
+    json.dump(hospitals, file)
   
 if __name__ == '__main__':
-  main(sys.argv[1])
+  main()
