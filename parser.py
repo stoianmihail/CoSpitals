@@ -37,8 +37,8 @@ def cleanMinisters(name):
 # Parse all hospitals
 def parseAll():
   with open("hospitals.csv", "r") as csvfile:
-    with open("final.txt", "r") as final:
-      hospitals = []
+    with open("coordinates.txt", "r") as final:
+      hospitals = {}
       csvreader = csv.reader(csvfile)
       next(csvreader)
       
@@ -72,20 +72,25 @@ def parseAll():
         hospitalName = unidecode(finalName)
         
         # And add the new hospital
-        hospitals.append({
-          'name' : hospitalName,
-          'latitude' : latitude,
-          'longitude' : longitude,
-          'beds' : 0,
-          'respirators' : 0
-        })
+        hospitals[hospitalName] = {
+          "name" : hospitalName,
+          "latitude" : latitude,
+          "longitude" : longitude,
+          "beds" : 0,
+          "respirators" : 0
+        }
       return hospitals
     
 def main():
   # Dump to json file
-  with open('json_data.txt', 'w') as file:
-    hospitals = parseAll()
-    json.dump(hospitals, file)
-  
+  if True:
+    with open('data.json', 'w') as file:
+      hospitals = parseAll()
+      json.dump(hospitals, file)
+  else:
+    # Test
+    data = json.loads(open('data.json', 'r').read())
+    print(data["Sanatoriul Balnear si de Recuperare Mangalia"])
+
 if __name__ == '__main__':
   main()
